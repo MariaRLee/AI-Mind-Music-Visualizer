@@ -1,0 +1,28 @@
+AI-Mind Music Visualizer V2.1 — Correct GitHub Pages Deployment
+
+This package contains:
+- index.html
+- 404.html
+- .nojekyll
+
+IMPORTANT: Upload all three files to the TOP LEVEL (root) of the repository.
+
+GitHub Pages settings:
+1. Open the repository.
+2. Go to Settings → Pages.
+3. Under Build and deployment:
+   Source: Deploy from a branch
+   Branch: main
+   Folder: / (root)
+4. Click Save.
+5. Open the Actions tab and wait until "pages build and deployment" is green.
+6. Open:
+   https://mariarlee.github.io/AI-Mind-Music-Visualizer/
+
+The correct page will visibly show:
+- AI-Mind Care · V2.1
+- 彩色冰淇淋 · 恰恰 · V2.1
+- Colorful Ice Cream selected by default
+- Cha-cha selected by default
+
+If the public page still shows a README-style page, the Pages source is not main / (root).
