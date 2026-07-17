@@ -1,0 +1,15 @@
+AI-Mind Music Visualizer V3.0
+
+Changes:
+1. Added Home button linked to https://www.hyloveclub.com
+2. Removed Emotion value controls
+3. Added visual mode: Others / 其他
+4. Moved the Local Privacy Mode notice to the bottom of the visual display
+5. Removed the visible ice-cream / Cha-cha version badge
+
+Upload these files to the repository root:
+- index.html
+- 404.html
+- .nojekyll
+
+Replace the old versions and commit.
