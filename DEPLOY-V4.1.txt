@@ -1,0 +1,29 @@
+AI-Mind Music Visualizer V4.1 — GitHub Pages Deployment
+
+VERSION
+V4.1
+
+UPLOAD THESE FILES TO THE REPOSITORY ROOT
+- index.html
+- 404.html
+- .nojekyll
+
+GITHUB PAGES SETTINGS
+1. Open the repository.
+2. Select Settings → Pages.
+3. Under Build and deployment:
+   Source: Deploy from a branch
+   Branch: main
+   Folder: / (root)
+4. Save the settings.
+5. Wait for the Pages deployment to complete.
+6. Open:
+   https://mariarlee.github.io/AI-Mind-Music-Visualizer/
+
+IMPORTANT
+- Replace the existing index.html and 404.html.
+- Delete or ignore the old DEPLOY-V4.0.txt file.
+- The correct top button reads:
+  使用指南｜User Guide
+- If an older page remains visible, use Ctrl + F5 on Windows,
+  or close and reopen the page in Safari/Chrome on mobile.
